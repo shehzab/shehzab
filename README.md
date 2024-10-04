@@ -1,10 +1,14 @@
 # Hi there! 👋 I'm Shehzab
 
-## A Passionate MERN-Fullstack Developer
+## A Passionate MERN-Fullstack Developer | Aspiring Tech Innovator
 
 Welcome to my GitHub profile! I'm dedicated to crafting efficient and innovative web solutions.
 
 > 🚀 **Heads up!** While my recent activity has been a bit quiet, I'm gearing up for an exciting phase. Stay tuned for some groundbreaking repositories coming your way soon! I'm cooking up some killer projects that will showcase the full extent of my skills and creativity. Watch this space!
+
+### 💼 Professional Summary
+
+I'm a full-stack developer with a focus on the MERN stack. My passion lies in creating scalable web applications and exploring cutting-edge technologies. With a keen eye for detail and a love for clean code, I strive to build robust and user-friendly solutions.
 
 ### 🚀 Quick Facts
 
@@ -32,10 +36,25 @@ Welcome to my GitHub profile! I'm dedicated to crafting efficient and innovative
 #### Workforce-integration-system
 A comprehensive solution for managing and integrating workforce operations. (In progress)
 
+### 🎯 Goals for 2024-2025
+
+- Master Next.js and TypeScript
+- Contribute to any one open-source project
+- Launch my personal tech blog
+- Attend a major tech conference
+
+### 🤓 Interests
+
+- 📚 Tech blogging
+- 🎨 UI/UX design
+- 📖 Reading (Crime Thrillers)
+  
+
 ### 🤝 Connect with me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/shehzab)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_shehzab_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shehzab)
 
 ### 📊 GitHub Stats
 
@@ -48,3 +67,7 @@ A comprehensive solution for managing and integrating workforce operations. (In 
 ### 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shehzab&layout=compact)
+
+---
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shehzab.shehzab)
