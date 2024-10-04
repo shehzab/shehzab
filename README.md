@@ -30,16 +30,17 @@ A comprehensive solution for managing and integrating workforce operations. (In 
 
 ### 🤝 Connect with me
 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/shehzab)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_shehzab_)
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shehzab&show_icons=true&theme=radical)
 
 ### 👨‍💻 Coding Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehzab&theme=dark)
 
 ### 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shehzab&layout=compact)
