@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I'm dedicated to crafting efficient and innovative web solutions.
 
+> 🚀 **Heads up!** While my recent activity has been a bit quiet, I'm gearing up for an exciting phase. Stay tuned for some groundbreaking repositories coming your way soon! I'm cooking up some killer projects that will showcase the full extent of my skills and creativity. Watch this space!
+
 ### 🚀 Quick Facts
 
 - 🔭 Currently working on: **Workforce-integration-system** (my own project)
