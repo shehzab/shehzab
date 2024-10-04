@@ -70,4 +70,3 @@ A comprehensive solution for managing and integrating workforce operations. (In 
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shehzab.shehzab)
