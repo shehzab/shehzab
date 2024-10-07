@@ -54,9 +54,6 @@ A comprehensive solution for managing and integrating workforce operations. (In 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_shehzab_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shehzab)
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shehzab&show_icons=true&theme=radical)
 
 ### 👨‍💻 Coding Activity
 
