@@ -58,15 +58,22 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
   - Advanced analytics dashboard
   - Scalable and modular architecture
 
-#### 2. Full Stack E-commerce Website and Uber Clone
-- **Description:** Comprehensive full-stack applications demonstrating advanced web development skills
-- **Technologies:** 
-  - E-commerce: MERN Stack, Redux, Stripe Integration
-  - Uber Clone: React Native, Node.js, Google Maps API
+#### 2. Full Stack E-commerce Website
+- **Description:** Comprehensive e-commerce platform demonstrating advanced web development skills
+- **Technologies:** MERN Stack, Redux, Stripe Integration
 - **Key Features:**
   - Robust payment systems
+  - Product catalog and search functionality
+  - User authentication and profiles
+- **Repository:** In Development
+
+#### 3. Uber Clone
+- **Description:** Ride-sharing application mimicking core Uber functionalities
+- **Technologies:** React Native, Node.js, Google Maps API
+- **Key Features:**
   - Real-time tracking and notifications
-  - Responsive and intuitive user interfaces
+  - Driver and passenger interfaces
+  - Location-based services
 - **Repository:** In Development
 
 ### 💬 Coding Philosophy
