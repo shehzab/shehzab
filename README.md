@@ -52,7 +52,7 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
 #### 1. Workforce-integration-system 
 - **Description:** A comprehensive solution for managing and integrating workforce operations
 - **Technologies:** MERN Stack, Redux, TypeScript
-- **Status:** In progress(april -2025)
+- **Status:** In progress
 - **Key Features:**
   - Real-time workforce management
   - Advanced analytics dashboard
@@ -65,7 +65,7 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
   - Robust payment systems
   - Product catalog and search functionality
   - User authentication and profiles
-- **Repository:** In Development
+- **Repository:** In Development(April-2025)
 
 #### 3. Uber Clone
 - **Description:** Ride-sharing application mimicking core Uber functionalities
@@ -74,7 +74,7 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
   - Real-time tracking and notifications
   - Driver and passenger interfaces
   - Location-based services
-- **Repository:** (may-2025)
+- **Repository:** (May-2025)
 
 ### 💬 Coding Philosophy
 "Code is not just about solving problems; it's about creating elegant, maintainable solutions that tell a story of efficiency and creativity."
