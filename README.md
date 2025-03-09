@@ -49,10 +49,10 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
 - 🔍 Attention to detail and code quality
 
 ### 🌟 Featured Projects
-#### 1. Workforce-integration-system
+#### 1. Workforce-integration-system 
 - **Description:** A comprehensive solution for managing and integrating workforce operations
 - **Technologies:** MERN Stack, Redux, TypeScript
-- **Status:** In progress
+- **Status:** In progress(april -2025)
 - **Key Features:**
   - Real-time workforce management
   - Advanced analytics dashboard
@@ -74,7 +74,7 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
   - Real-time tracking and notifications
   - Driver and passenger interfaces
   - Location-based services
-- **Repository:** In Development
+- **Repository:** (may-2025)
 
 ### 💬 Coding Philosophy
 "Code is not just about solving problems; it's about creating elegant, maintainable solutions that tell a story of efficiency and creativity."
