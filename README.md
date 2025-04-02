@@ -60,12 +60,13 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
 
 #### 2. Full Stack E-commerce Website
 - **Description:** Comprehensive e-commerce platform demonstrating advanced web development skills
-- **Technologies:** MERN Stack, Redux, Stripe Integration
+- **Technologies:** MERN Stack, Redux, Paypal Integration
 - **Key Features:**
   - Robust payment systems
-  - Product catalog and search functionality
+  - Product catalog and search/filter functionality
   - User authentication and profiles
-- **Repository:** In Development(April-2025)
+- **Repository:** ##  [NeoDesk-Ecommerce](https://github.com/shehzab/NeoDesk-Ecommerce)
+
 
 #### 3. Uber Clone
 - **Description:** Ride-sharing application mimicking core Uber functionalities
