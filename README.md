@@ -23,7 +23,7 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-#### 🧪 Tech Playground: What I'm Trying Out
+### 🧪 Tech Playground: What I'm Trying Out
 
 - **Frameworks:** Next.js, TypeScript
 - **State Management:** Redux, Context API
