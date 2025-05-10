@@ -71,11 +71,10 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
 
 ### 🎯 Goals for 2025
 - Master Next.js and TypeScript
-- Contribute to open-source projects
 - Launch personal tech blog
 - Attend major tech conferences
 - Develop advanced full-stack applications
-- Improve DevOps and cloud computing skills
+
 
 ### 🤓 Interests
 - 📚 Tech blogging and knowledge sharing
