@@ -54,7 +54,7 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
   - Robust payment systems
   - Product catalog and search/filter functionality
   - User authentication and profiles
-- **Repository:** ##  [NeoDesk-Ecommerce](https://github.com/shehzab/NeoDesk-Ecommerce)
+- **Repository:**[NeoDesk-Ecommerce](https://github.com/shehzab/NeoDesk-Ecommerce)
 
 
 #### 3. Uber Clone
