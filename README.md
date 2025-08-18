@@ -65,6 +65,18 @@ I'm a full-stack developer with a focus on the MERN stack. My passion lies in cr
   - Driver and passenger interfaces
   - Location-based services
 
+#### 4. 🚀 Crypto Tracker  
+- **Description:** A modern, real-time cryptocurrency tracking application with sleek UI and advanced data visualization  
+- **Live Demo:** [crypto-tracker-coinscope.vercel.app](https://crypto-tracker-coinscope.vercel.app/)  
+- **Technologies:** React 18+, Tailwind CSS, Vite, Chart.js, CoinGecko API  
+- **Key Features:**  
+  - Real-time cryptocurrency price tracking (auto-refresh every 60s)  
+  - Interactive multi-timeframe charts (1D, 7D, 30D, 90D, 1Y)  
+  - Favorites system with persistent storage  
+  - Advanced search and instant filtering  
+   
+  
+
 
 ### 💬 Coding Philosophy
 "Code is not just about solving problems; it's about creating elegant, maintainable solutions that tell a story of efficiency and creativity."
