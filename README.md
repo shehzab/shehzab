@@ -141,7 +141,6 @@ Full-stack developer specializing in the **MERN stack**. I focus on clean, maint
 
 ### 👨‍💻 Coding Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehzab\&theme=dark)
 ![Skills Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=shehzab\&layout=compact\&theme=radical)
 
 
