@@ -50,6 +50,11 @@ Full-stack developer specializing in the **MERN stack**. I focus on clean, maint
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Joi](https://img.shields.io/badge/-Joi-2C5AA0?style=flat-square&logo=joi&logoColor=white)
+![Helmet](https://img.shields.io/badge/-Helmet.js-000000?style=flat-square&logo=helmet&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/-Rate%20Limiting-FF6B6B?style=flat-square&logo=shield&logoColor=white)
+![CORS](https://img.shields.io/badge/-CORS-4285F4?style=flat-square&logo=cors&logoColor=white)
+
 
 ---
 
