@@ -3,7 +3,7 @@
 ## MERN Full-Stack Developer | Building Scalable Web Applications
 
 📧 **Contact:** [sinanshehzab@gmail.com](mailto:sinanshehzab@gmail.com)  
-🔭 **Currently:** Building RBAC API System  
+🔭 **Currently:** working on workforce management system  
 💼 **Status:** Open for collaborations  
 
 ---
@@ -23,21 +23,21 @@
 Role-Based Access Control with authentication, authorization & permissions  
 **Tech:** Node.js, Express.js, MongoDB, JWT, Redis, Swagger, Jest
 
-### [E-Commerce Payments API](https://github.com/shehzab/Ecommerce-Payments-API)
-Secure e-commerce backend with Stripe integration, cart & admin dashboard  
-**Tech:** Node.js, Express.js, MongoDB, Stripe, JWT, Helmet, Nodemailer
-
 ### [Full Stack E-commerce](https://github.com/shehzab/NeoDesk-Ecommerce)
 Complete MERN e-commerce platform with payment integration  
 **Tech:** MERN Stack, Redux, PayPal Integration
 
+### [E-Commerce Payments API](https://github.com/shehzab/Ecommerce-Payments-API)
+Secure e-commerce backend with Stripe integration, cart & admin dashboard  
+**Tech:** Node.js, Express.js, MongoDB, Stripe, JWT, Helmet, Nodemailer
+
+### [Task Management API](https://github.com/shehzab/Task-Management-API)
+Robust task management API with JWT authentication, CRUD operations, and advanced filtering. Features task categorization, priority system, due dates, and pagination  
+**Tech:** Node.js, Express.js, MongoDB, JWT, bcryptjs, Joi, Helmet
+
 ### [Crypto Tracker](https://crypto-tracker-coinscope.vercel.app/)
 Real-time cryptocurrency tracker with interactive charts  
 **Tech:** React 18+, Tailwind CSS, Chart.js, CoinGecko API
-
-### [Climate Data Visualization](https://shehzab.github.io/Global-Climate-Change-Visualization-Tool/)
-Interactive visualization of global temperature & CO2 data (1880–2024)  
-**Tech:** JavaScript, Chart.js, HTML5, CSS3
 
 ---
 
