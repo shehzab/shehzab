@@ -2,8 +2,10 @@
 
 ## MERN Full-Stack Developer | Building Scalable Web Applications
 
+> 🚀 **Specializing in full-stack solutions with clean code, robust security, and seamless user experiences.**
+
 📧 **Contact:** [sinanshehzab@gmail.com](mailto:sinanshehzab@gmail.com)  
-🔭 **Currently:** working on workforce management system  
+🔭 **Currently:** Working on workforce management system (personal project)  
 💼 **Status:** Open for collaborations  
 
 ---
