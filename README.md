@@ -1,70 +1,54 @@
-# Hi there! 👋 I'm Shehzab
+# Hi, I'm **Shehzab** 👋
 
-## MERN Full-Stack Developer | Building Scalable Web Applications
+**Full-Stack Developer → Transitioning into Machine Learning & AI**
 
-> 🚀 **Specializing in full-stack solutions with clean code, robust security, and seamless user experiences.**
+I build scalable backend systems and modern web apps, and I’m now beginning my journey into **Machine Learning & AI**, learning the fundamentals and building small practical projects.
 
-📧 **Contact:** [sinanshehzab@gmail.com](mailto:sinanshehzab@gmail.com)  
-🔭 **Currently:** Working on workforce management system (personal project)  
-💼 **Status:** Open for collaborations  
-
----
-
-## 🚀 Tech Stack
-
-**Frontend:** React 18+ • Redux • JavaScript • Tailwind CSS • Material-UI • Chart.js • Vite  
-**Backend:** Node.js • Express.js • MongoDB • Mongoose • JWT • bcrypt • Redis  
-**Tools:** Docker • Git • Postman • Swagger • Jest • Supertest  
-**Specialties:** RBAC • Payment Integration (Stripe) • RESTful APIs • MVC Architecture
+📧 **[sinanshehzab@gmail.com](mailto:sinanshehzab@gmail.com)** 
+💼 Open to ML + Full-Stack opportunities
 
 ---
 
-## 🌟 Featured Projects
+## 🔥 Current Focus
 
-### [RBAC API System](https://github.com/shehzab/RBAC-system)
-Role-Based Access Control with authentication, authorization & permissions  
-**Tech:** Node.js, Express.js, MongoDB, JWT, Redis, Swagger, Jest
-
-### [Full Stack E-commerce](https://github.com/shehzab/NeoDesk-Ecommerce)
-Complete MERN e-commerce platform with payment integration  
-**Tech:** MERN Stack, Redux, PayPal Integration
-
-### [E-Commerce Payments API](https://github.com/shehzab/Ecommerce-Payments-API)
-Secure e-commerce backend with Stripe integration, cart & admin dashboard  
-**Tech:** Node.js, Express.js, MongoDB, Stripe, JWT, Helmet, Nodemailer
-
-### [Task Management API](https://github.com/shehzab/Task-Management-API)
-Robust task management API with JWT authentication, CRUD operations, and advanced filtering. Features task categorization, priority system, due dates, and pagination  
-**Tech:** Node.js, Express.js, MongoDB, JWT, bcryptjs, Joi, Helmet
-
-### [Crypto Tracker](https://crypto-tracker-coinscope.vercel.app/)
-Real-time cryptocurrency tracker with interactive charts  
-**Tech:** React 18+, Tailwind CSS, Chart.js, CoinGecko API
+Learning the **basics of Machine Learning** — Python, data handling, simple models, and understanding how ML works step by step.
+Taking a beginner-friendly, project-based approach.
 
 ---
 
-## 💼 Core Competencies
+## 🧠 Machine Learning Projects
 
-**Backend Development**  
-• RESTful API design & implementation  
-• Authentication & authorization (JWT, RBAC)  
-• Database modeling & optimization (MongoDB)  
-• Payment gateway integration (Stripe)  
-• Security best practices & middleware  
+* **Iris Classification** — basic ML classification.
+* **House Price Prediction** — simple regression model
+* **Customer Segmentation** — clustering example
 
-**Frontend Development**  
-• Modern React with hooks & context  
-• Responsive UI design & frameworks  
-• State management (Redux)  
-• API integration & real-time updates  
-• Data visualization & charts  
+*(More projects will be added as I learn.)*
 
-**DevOps & Tools**  
-• Docker containerization  
-• Testing (Jest, Supertest)  
-• API documentation (Swagger)  
-• Version control (Git)  
-• CI/CD pipelines  
+---
+
+## 🚀 Featured MERN Projects
+
+* **RBAC API System** — permissions & secure auth
+* **Full-Stack E-commerce** — MERN + PayPal
+* **E-Commerce Payments API** — Stripe + backend system
+* **Task Management API** — filters, pagination, JWT
+* **Crypto Tracker** — live data + charts
+
+---
+
+## 🛠 Tech Stack
+
+**ML (Learning):**  
+Python • NumPy • Pandas • Matplotlib • Scikit-learn  
+
+**Frontend:**  
+React • Redux • Tailwind CSS • Vite  
+
+**Backend:**  
+Node.js • Express • MongoDB • Mongoose • JWT • Redis  
+
+**Tools:**  
+Docker • Git • Postman • Swagger • Jest  
 
 ---
 
@@ -77,4 +61,7 @@ Real-time cryptocurrency tracker with interactive charts
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/shehzab)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shehzab)
 
-> 🚀 **Looking for a full-stack developer?** I specialize in building secure, scalable web applications with modern technologies. Let's discuss your next project!
+---
+> Transitioning from **MERN** to **Machine Learning**, learning and building every day.
+
+
