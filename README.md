@@ -17,6 +17,7 @@
 
 <br/>
 
+
 > *Crafting complete web experiences — from pixel-perfect UIs to production-grade APIs.*
 
 </div>
@@ -140,7 +141,7 @@ Production-ready RESTful API with advanced filtering, pagination, and full CRUD 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
 ### 📈 Crypto Tracker
 Real-time cryptocurrency dashboard with live price data and interactive chart visualizations.
@@ -154,6 +155,27 @@ Real-time cryptocurrency dashboard with live price data and interactive chart vi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehzab)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://shehzab.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Developer Portfolio
+Personal portfolio website showcasing projects, skills, and professional background — built and deployed on Vercel.
+
+**Highlights:**
+- Responsive, modern design
+- Project showcase with live links
+- Deployed & live at shehzab.vercel.app
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehzab)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://shehzab.vercel.app)
+
 </td>
 </tr>
 </table>
@@ -162,10 +184,7 @@ Real-time cryptocurrency dashboard with live price data and interactive chart vi
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shehzab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehzab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shehzab&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
@@ -187,12 +206,10 @@ Real-time cryptocurrency dashboard with live price data and interactive chart vi
 | 🛒 **Full-Stack E-Commerce** | Complete MERN store with payments |
 | 📋 **Task Management API** | RESTful API with auth & filtering |
 | 💳 **Payments API** | Stripe-powered payment service |
-| 📈 **Crypto Tracker** | Live crypto data & charts |
-| 🏗️ **Advanced Full-Stack Project** | End-to-end app showcasing full MERN architecture |
+| 📈 **Crypto Tracker** | Live crypto data & charts — [🔗 Live](https://shehzab.vercel.app) |
+| 🌐 **Portfolio** | Personal dev portfolio — [🔗 shehzab.vercel.app](https://shehzab.vercel.app) |
 
 ---
-
-
 
 ## 🤝 Let's Connect
 
