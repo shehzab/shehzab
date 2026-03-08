@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shehzab&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Stack&descAlignY=60&descAlign=50&animation=fadeIn&fontStyle=bold" />
 
-<!-- Typing Animation -->
 <a href="https://github.com/shehzab">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+%E2%86%92+MERN;Building+End-to-End+Web+Applications;Crafting+Secure+APIs+%26+Scalable+Systems;Open+to+New+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+%E2%86%92+MERN;Building+End-to-End+Web+Applications;Crafting+Secure+APIs+%26+Scalable+Systems;Currently+Building+a+GenAI+Job+Prep+Platform+%F0%9F%A4%96;Open+to+New+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,6 +15,7 @@
 
 <br/>
 
+> 🟢 **Actively looking for Full-Stack Developer roles** — [sinanshehzab@gmail.com](mailto:sinanshehzab@gmail.com)
 
 > *Crafting complete web experiences — from pixel-perfect UIs to production-grade APIs.*
 
@@ -30,14 +29,41 @@
 const shehzab = {
   role:       "Full-Stack Web Developer (MERN Stack)",
   focus:      ["End-to-End Web Apps", "Scalable APIs", "Responsive UIs"],
+  experience: "Building production-ready MERN applications with a focus on clean architecture",
   location:   "Available Remotely",
   contact:    "sinanshehzab@gmail.com",
   status:     "💼 Open to Full-Stack Developer Opportunities",
+  currentlyBuilding: "GenAI-powered Job Prep Platform using Gemini API",
   philosophy: "From UI to database — own the whole stack, own the outcome."
 };
 ```
 
-I build **complete web applications** from the ground up — crafting responsive, intuitive frontends with React and engineering the robust, secure backends that power them. I thrive across the full MERN stack and care deeply about clean architecture, great user experiences, and shipping production-ready software.
+I build **complete web applications** from the ground up — crafting responsive, intuitive frontends with React and engineering the robust, secure backends that power them. I thrive across the full MERN stack and care deeply about clean architecture, great user experiences, and shipping production-ready software. Lately I've been diving deep into **AI integration**, building real-world tools that solve real hiring problems.
+
+---
+
+## 🔨 What I'm Currently Building
+
+<div align="center">
+
+### 🤖 GenAI Job Prep Platform *(In Progress)*
+
+</div>
+
+A full-stack AI-powered platform designed to simulate a real-world product that transforms how candidates prepare for job hunts.
+
+**Core Features:**
+- 📄 **Resume Upload & Analysis** — Parse and evaluate resumes against job descriptions
+- 🔍 **Skill Gap Detection** — Automatically identify missing skills for a target role
+- 🎯 **AI Interview Questions** — Generate role-specific interview questions powered by Gemini
+- ✨ **ATS-Optimized Resume Generator** — Rewrite and tailor resumes to beat applicant tracking systems
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -57,6 +83,11 @@ I build **complete web applications** from the ground up — crafting responsive
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### AI & Integrations
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
 
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -89,6 +120,8 @@ Role-Based Access Control backend with secure authentication and fine-grained pe
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehzab/RBAC-System)
+
 </td>
 <td width="50%" valign="top">
 
@@ -104,6 +137,8 @@ Complete MERN e-commerce platform with product management, cart system, and PayP
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PayPal](https://img.shields.io/badge/-PayPal-003087?style=flat&logo=paypal&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehzab/NeoDesk-Ecommerce)
 
 </td>
 </tr>
@@ -122,6 +157,8 @@ Dedicated backend service for secure payment processing and transaction lifecycl
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehzab/ecommerce-payments-api)
+
 </td>
 <td width="50%" valign="top">
 
@@ -137,6 +174,8 @@ Production-ready RESTful API with advanced filtering, pagination, and full CRUD 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehzab/Task-Management-API)
 
 </td>
 </tr>
@@ -155,8 +194,7 @@ Real-time cryptocurrency dashboard with live price data and interactive chart vi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehzab)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://shehzab.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehzab/Crypto-Tracker)
 
 </td>
 <td width="50%" valign="top">
@@ -173,7 +211,6 @@ Personal portfolio website showcasing projects, skills, and professional backgro
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehzab)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://shehzab.vercel.app)
 
 </td>
@@ -184,7 +221,13 @@ Personal portfolio website showcasing projects, skills, and professional backgro
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehzab&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehzab&theme=tokyonight" height="165" alt="Top Languages" />
+</div>
 
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shehzab&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
@@ -193,21 +236,6 @@ Personal portfolio website showcasing projects, skills, and professional backgro
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehzab&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%" alt="Activity Graph" />
 </div>
-
----
-
-## 📌 Pinned Repositories
-
-> ⭐ Check out my best work — make sure to **star** what you find useful!
-
-| Repository | Description |
-|---|---|
-| 🔐 **RBAC API System** | Secure role-based access control backend |
-| 🛒 **Full-Stack E-Commerce** | Complete MERN store with payments |
-| 📋 **Task Management API** | RESTful API with auth & filtering |
-| 💳 **Payments API** | Stripe-powered payment service |
-| 📈 **Crypto Tracker** | Live crypto data & charts — [🔗 Live](https://shehzab.vercel.app) |
-| 🌐 **Portfolio** | Personal dev portfolio — [🔗 shehzab.vercel.app](https://shehzab.vercel.app) |
 
 ---
 
