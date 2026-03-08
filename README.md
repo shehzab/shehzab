@@ -33,8 +33,6 @@ const shehzab = {
   location:   "Available Remotely",
   contact:    "sinanshehzab@gmail.com",
   status:     "💼 Open to Full-Stack Developer Opportunities",
-  currentlyBuilding: "GenAI-powered Job Prep Platform using Gemini API",
-  philosophy: "From UI to database — own the whole stack, own the outcome."
 };
 ```
 
